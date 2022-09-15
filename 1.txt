@@ -1,1 +1,1 @@
-This is test text file for task 3
+This is changed (again) test text file for task 3
