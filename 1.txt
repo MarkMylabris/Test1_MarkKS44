@@ -1,1 +1,1 @@
-This is changed (again) test text file for task 3
+This is changed text file 1.txt after merge
